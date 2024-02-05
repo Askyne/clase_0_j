@@ -3,4 +3,5 @@ git status => obtengo info del repo
 git add archivos = Añade un archivo al area de seguimiento
 "." (Significa todo el directorio actual)
 -m => SIGNFICA MENSAJE
-git commit
+git commit => Añade un archivo al repositorio local
+git log => Muestra los commits realizados
