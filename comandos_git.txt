@@ -5,3 +5,7 @@ git add archivos = Añade un archivo al area de seguimiento
 -m => SIGNFICA MENSAJE
 git commit => Añade un archivo al repositorio local
 git log => Muestra los commits realizados
+git remote add origin <url> => añade la dire del repo remoto
+git push <url o origin><rama> => Añade el repo local al repo remoto
+git pull <url o origin><rama> => Pasa del repo remote al repo local(actualiza)
+git clone <url o origin><rama> => Pasa del repo remote al repo local(copia completo)
